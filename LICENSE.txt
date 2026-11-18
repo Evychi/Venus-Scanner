@@ -1,0 +1,131 @@
+VENUS SCANNER - END USER LICENSE AGREEMENT
+==========================================
+
+Copyright (c) 2026 Evychi. All rights reserved.
+
+Please read this agreement before using Venus Scanner. By downloading, opening or
+running the program you agree to all of these terms. If you do not agree, do not run
+the program and delete it.
+
+1. DEFINITIONS
+   "Program"  - Venus Scanner, including the exe, its files, its scan reports, its look,
+                its name and logo and its source code, and any update.
+   "Owner"    - Evychi (GitHub: Evychi), who owns all rights to the Program.
+   "You"      - the person who runs the Program, or the person whose computer is scanned.
+   "Staff"    - the people given permission by the Owner to use the results of scans.
+
+2. OWNERSHIP
+   The Program is licensed, not sold. The Owner keeps all rights, title and ownership of
+   the Program, including copyright and all other intellectual property rights. Nothing
+   in this agreement gives you ownership of the Program or of any part of it.
+
+3. PERMISSION TO USE
+   You may run the Program only if the Owner (or Staff acting for the Owner) has allowed
+   you to, and only for the purpose it was given to you for - checking a computer for
+   Roblox cheats. This permission is personal, limited, non-exclusive, cannot be
+   transferred or passed on, and can be withdrawn by the Owner at any time without
+   giving a reason.
+
+4. WHAT YOU MAY NOT DO
+   Without written permission from the Owner you may not:
+   a) use the Program;
+   b) sell, rent, lease, lend or sublicense the Program, or charge money or anything
+      else for it or for access to it;
+   c) edit, change, patch, crack, translate or create other works based on the Program;
+   d) decompile, disassemble or reverse-engineer the Program, or try to find out its
+      source code, except where the law allows this and cannot be limited by agreement;
+   e) copy, share, upload, re-upload, mirror or give the Program to anyone, in whole or
+      in part;
+   f) remove, hide or change this license, the copyright notices or the Program's name
+      and logo;
+   g) get around, disable or interfere with the Program's checks, its integrity
+      protection or the way it sends its results, or block it from working as intended;
+   h) fake, edit or alter scan results or scan reports;
+   i) use the Program, its results or any part of it to make a competing program;
+   j) use the Program for anything illegal or to harm anyone.
+
+5. WHAT THE PROGRAM DOES ON YOUR COMPUTER
+   The Program needs administrator rights. It reads files, program traces, Windows logs,
+   the Windows registry, running programs, browser history (only cheat-related sites are
+   reported), connected devices and similar information in order to look for cheats.
+   To protect itself and its results, the Program may also:
+   - restore its own scan reports if they were changed or deleted;
+   - remove files placed next to it that change how it works;
+   - undo changes that stop it from sending its results, such as Windows hosts-file
+     entries or firewall rules aimed at the Program or the service it reports to.
+   The Program does not install itself, does not stay running after you close it and
+   does not change your other programs or your personal files.
+
+6. INFORMATION THAT IS COLLECTED
+   When you run a scan, the results are sent to the Owner and Staff. This can include:
+   - the detections found (names and locations of files and programs, visits to cheat
+     websites, with your Windows user name hidden in paths), their dates and fingerprints
+     (hashes) of suspicious files;
+   - the usernames and IDs of Roblox accounts that were used on the computer;
+   - technical information about the computer, such as an anonymous computer ID, when
+     Windows was installed, whether the scan ran in a virtual machine, and connected
+     devices while a live check is running;
+   - the date and time of the scan and a scan code.
+   The Program does not collect your passwords, your Roblox login, the contents of your
+   documents, or your computer name. This information is used only to check for cheats
+   and to keep the Program secure. If you want to know what was collected about you, or
+   want it deleted where the law allows, contact the Owner.
+
+7. CHILDREN
+   If you are under 16 (or the age needed in your country to agree to this yourself), a
+   parent or guardian must agree to this agreement for you before you run the Program.
+
+8. RESULTS ARE NOT PROOF
+   Detections are signs that need to be checked by a person, not proof. Program names can
+   match normal software, and a clean scan does not prove that a computer is free of
+   cheats. Any decision made with the results (for example a ban) is made by the people
+   who made it, not by the Program or the Owner.
+
+9. UPDATES
+   The Owner may release updates or new versions, and may stop supporting older ones.
+   Updates are covered by this agreement unless they come with a new one.
+
+10. NO WARRANTY
+    The Program is provided "as is" and "as available", without any warranty of any kind,
+    including that it is correct, complete, error-free, or fit for a particular purpose.
+
+11. LIMITATION OF LIABILITY
+    As far as the law allows, the Owner is not responsible for any direct or indirect
+    damage, loss of data, loss of profit, bans, account actions or any other loss caused
+    by using or not being able to use the Program, even if the Owner was told it could
+    happen.
+
+12. YOUR RESPONSIBILITY
+    You are responsible for how you use the Program. If you break this agreement, you
+    agree to cover any damage or costs this causes the Owner, as far as the law allows.
+
+13. ENDING THIS AGREEMENT
+    This agreement ends at once, without notice, if you break any of its terms, or when
+    the Owner withdraws your permission. When it ends you must stop using the Program and
+    delete every copy you have. Sections 2, 4, 6, 8, 10, 11, 12 and 15 stay in force after
+    it ends.
+
+14. OTHER NAMES
+    Roblox and other names mentioned by the Program belong to their owners. Venus Scanner
+    is not made by, connected to or approved by Roblox Corporation or any of those
+    companies.
+
+15. GENERAL
+    - Law: this agreement is governed by the laws of the Republic of Poland, without
+      limiting any rights you have under the laws of your own country.
+    - If any part of this agreement cannot be enforced, the rest still applies.
+    - This agreement is the whole agreement about the Program and replaces anything said
+      or written before.
+    - If the Owner does not act on a breach straight away, the Owner still keeps the
+      right to act on it later.
+    - The Owner may change this agreement. The version included with the Program you run
+      applies to it.
+
+16. CONTACT
+    For permission, questions or requests about your information, contact Evychi on
+    GitHub (github.com/Evychi).
+
+---------------------------------------------------------------------------------------
+Venus Scanner is built with the Go programming language. The Go runtime included in the
+Program is covered by its own license, in GO_LICENSE.txt. That license applies only to
+the Go runtime, not to Venus Scanner.
